@@ -1,4 +1,4 @@
-# BookerModelFeatures
+# Feature Investigation
 
 This app facilitates the exploration of model feature distributions.
 
